@@ -1,0 +1,11 @@
+{
+    "model": "TF-IDF + Logistic Regression",
+    "training_articles": 597,
+    "validation_articles": 128,
+    "test_articles_reserved": 128,
+    "validation_accuracy": 0.8203125,
+    "macro_f1": 0.8129521208870395,
+    "weighted_f1": 0.819375392807026,
+    "random_seed": 42,
+    "evaluation_split": "validation"
+}
